@@ -1,0 +1,60 @@
+    body {
+        background-color: #00FFF6;
+    }
+
+    hr {
+        color: rgb(0, 0, 0);
+        width: 80%;
+        text-align: center;
+    }
+
+    h3 {
+        color: #009EFF;
+        text-align: center;
+    }
+
+    img {
+        border-radius: 100%;
+    }
+
+    section{
+        padding: 5%;
+    }
+
+    #title {
+        background-color: #0014FF;
+        padding: 5%;
+        color: #ffffff;
+    }
+
+.title-text{
+    padding: 7%;
+}
+
+    #skills {
+        text-align: center;
+        background-color: #009EFF;
+        color: #ffffff;
+    }
+
+    .different-h3{
+        color: #ffffff;
+    }
+
+    #hobbies{
+        text-align: center;
+    }
+
+    #contect {
+        text-align: center;
+        font-size:xx-large;
+    }
+
+    i{
+        padding:5%;
+    }
+
+    form {
+        align-self: center;
+    }
+
