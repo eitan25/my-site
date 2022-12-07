@@ -1,16 +1,29 @@
     body {
         background-color: #ffffff;
+        padding: 2%;
+    }
+
+    .centered {
+        text-align: center;
+    }
+
+    h3,hr {
+        text-align: center;
     }
 
     hr {
         color: rgb(0, 0, 0);
         width: 80%;
-        text-align: center;
     }
 
-    h3 {
-        color: #009EFF;
-        text-align: center;
+    .inner-blue{
+        opacity: 0.7;
+    }
+
+    .blue-class {
+        color: #ffffff;
+        background-color: #009EFF;
+        box-shadow: inset;
     }
 
     img {
@@ -20,49 +33,30 @@
     }
 
     section{
+        color:#252424;
         padding: 5%;
     }
 
     #navbar{
-        background-color: #009EFF;
         padding: 1%;
     }
 
     #title {
-        background-color: #009EFF;
         padding: 5%;
         color: #ffffff;
         height: 100%;
     }
 
-.title-text{
-    padding: 7%;
-}
-
-    #skills {
-        text-align: center;
-        background-color: #009EFF;
-        color: #ffffff;
+    .title-text{
+        padding: 7%;
     }
 
-    .different-h3{
-        color: #ffffff;
-    }
-
-    #hobbies{
-        text-align: center;
-    }
 
     #contect {
-        text-align: center;
         font-size:xx-large;
     }
 
     i{
         padding:5%;
-    }
-
-    form {
-        align-self: center;
     }
 
